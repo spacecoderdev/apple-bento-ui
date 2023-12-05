@@ -1,7 +1,7 @@
 
 # Apple Bento UI - HTML y CSS
 
-Este proyecto de HTML y CSS tiene como objetivo recrear el diseño tipo Bento utilizado por Apple para mostrar las características generales de sus productos.
+Este proyecto de HTML y CSS tiene como objetivo recrear el diseño estilo bento utilizado por Apple para mostrar las características generales de sus productos.
 ## 📸 Screenshots
 
 ![45-readme-image](https://github.com/spacecoderdev/apple-bento-ui/assets/146677344/f0d3e9fb-eae4-4960-a20e-1556f5d5aeff)
