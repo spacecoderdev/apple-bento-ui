@@ -1,0 +1,42 @@
+.grid-container {
+    width: max-content; /* Especifica el width cuando no quieras heredar el width del padre */
+    display: grid;
+    gap: 1rem;
+    grid-template-areas:
+    "a b c c"
+    "d d d d"
+    "d d d d"
+    "e e f g";
+}
+
+img:nth-child(1) {
+    grid-area: a;
+}
+
+img:nth-child(2) {
+    grid-area: b;
+}
+
+img:nth-child(3) {
+    grid-area: c;
+}
+
+img:nth-child(4) {
+    grid-area: d;
+}
+
+img:nth-child(5) {
+    grid-area: e;
+}
+
+img:nth-child(6) {
+    grid-area: f;
+}
+
+img:nth-child(7) {
+    grid-area: g;
+}
+
+
+
+
